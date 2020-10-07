@@ -12,5 +12,5 @@ Le jeu des trois coups se joue à deux joueurs qui choisissent simultanément un
 # Pour être gagnant
 La pierre bât les ciseaux qui coupent la feuille et qui enrobent la pierre.
 
-# Rendu
+# Rendu final
 <a href="https://zupimages.net/viewer.php?id=20/41/fzco.png"><img src="https://zupimages.net/up/20/41/fzco.png" alt="" /></a>
